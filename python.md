@@ -1,4 +1,4 @@
-# tictactoe
+# tictactoe using Python 2
 designing tic-tac-toe
 from __future__ import print_function 
 from IPython.display import clear_output
